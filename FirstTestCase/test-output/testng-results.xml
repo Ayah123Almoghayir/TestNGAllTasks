@@ -1,65 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-26T11:24:10 EET" name="Default suite" finished-at="2024-03-26T11:24:31 EET" duration-ms="21343">
+  <suite started-at="2024-03-28T11:14:09 EET" name="Default suite" finished-at="2024-03-28T11:14:45 EET" duration-ms="36094">
     <groups>
     </groups>
-    <test started-at="2024-03-26T11:24:10 EET" name="Default test" finished-at="2024-03-26T11:24:31 EET" duration-ms="21343">
-      <class name="Automation.ParameterByDataprovider">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Automation.ParameterByDataprovider@6356695f]" started-at="2024-03-26T11:24:10 EET" name="setup" finished-at="2024-03-26T11:24:21 EET" duration-ms="11862" status="PASS">
+    <test started-at="2024-03-28T11:14:09 EET" name="Default test" finished-at="2024-03-28T11:14:45 EET" duration-ms="36094">
+      <class name="homework2.TestNGHomework2">
+        <test-method signature="f()[pri:0, instance:homework2.TestNGHomework2@479d31f3]" started-at="2024-03-28T11:14:09 EET" name="f" finished-at="2024-03-28T11:14:45 EET" duration-ms="36028" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="testMethod(java.lang.String,java.lang.String)[pri:0, instance:Automation.ParameterByDataprovider@6356695f]" started-at="2024-03-26T11:24:21 EET" name="testMethod" data-provider="Search Provider" finished-at="2024-03-26T11:24:25 EET" duration-ms="3187" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Demo]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[India]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testMethod -->
-        <test-method signature="testMethod(java.lang.String,java.lang.String)[pri:0, instance:Automation.ParameterByDataprovider@6356695f]" started-at="2024-03-26T11:24:25 EET" name="testMethod" data-provider="Search Provider" finished-at="2024-03-26T11:24:28 EET" duration-ms="3087" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Krishna]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[UK]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testMethod -->
-        <test-method signature="testMethod(java.lang.String,java.lang.String)[pri:0, instance:Automation.ParameterByDataprovider@6356695f]" started-at="2024-03-26T11:24:28 EET" name="testMethod" data-provider="Search Provider" finished-at="2024-03-26T11:24:31 EET" duration-ms="3129" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Bhupesh]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[USA]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testMethod -->
-      </class> <!-- Automation.ParameterByDataprovider -->
+        </test-method> <!-- f -->
+      </class> <!-- homework2.TestNGHomework2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

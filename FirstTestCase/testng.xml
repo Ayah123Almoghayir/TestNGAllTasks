@@ -3,7 +3,7 @@
 <suite name="Login Regression">
     <test name="Login Regression">
    	 <classes>
-   		 <class name="LoginBase" />
+   		 <class name="TestNGHomework2" />
    	 </classes>
     </test><!-- Test -->
 </suite> <!-- Suite -->
